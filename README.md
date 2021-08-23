@@ -12,8 +12,8 @@ I love helping others, which brought me here to contribute my knowledge and skil
 
 
 ### 🧠 Skills: 
-| Languages | C | C++  | Python 
-| --- | --- | --- | --- |  
+| Languages | C | C# | C++  | Python 
+| --- | --- | --- | --- | --- |  
 
 ### ✏️ My Info:
 - 🔭 I’m currently working on Cutting edge Technology 
