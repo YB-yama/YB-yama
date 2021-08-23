@@ -2,7 +2,7 @@
 ### My name is Yash Bari 😉
 #### and I am a Augmented Reality Software Engineer 👩🏼‍💻
 
-![alt text](https://github.com/YB-yama/YB-yama/blob/main/assets/WhatsApp%20Image%202021-08-23%20at%207.45.46%20PM.jpeg)
+![alt text](https://github.com/YB-yama/YB-yama/blob/main/assets/i%20can%20and%20i%20will.jpeg)
 
 I love helping others, which brought me here to contribute my knowledge and skills with others. I am currently a student and still have to learn many things 
 
