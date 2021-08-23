@@ -2,7 +2,7 @@
 ### My name is Yash Bari 😉
 #### and I am a Augmented Reality Software Engineer 👩🏼‍💻
 
-![alt text](https://drive.google.com/file/d/1rmY9O6POm0r7pwSfK4EtMayn6Z-VmVvg/view?usp=sharing)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allaboutgoodvibes.com%2Ffree-downloadable-black-and-white-desktop-wallpaper%2F&psig=AOvVaw02vIrygp5Ceh5jLwUwdBzL&ust=1629814387042000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICnlPCpx_ICFQAAAAAdAAAAABAD)
 
 I love helping others, which brought me here to contribute my knowledge and skills with others. I am currently a student and still have to learn many things 
 
