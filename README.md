@@ -24,4 +24,7 @@ I love helping others, which brought me here to contribute my knowledge and skil
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-yama&show_icons=true&theme=dracula)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YB-yama&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
